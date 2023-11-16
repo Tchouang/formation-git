@@ -10,6 +10,7 @@
 2. Deux
 
 Formation **GIT**
+
 Formation *GIT*
 
 ---
